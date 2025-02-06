@@ -10,3 +10,9 @@
 var myVar = "Hello, world!";
 ```
 
+- [x] add headers
+- [x] add images
+- [x] add code
+- [ ] add txt
+- [ ] add files
+
